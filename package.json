@@ -1,0 +1,10 @@
+{
+  "name": "node-helloworld-ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Nothing to build for Node, but cool.'",
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
